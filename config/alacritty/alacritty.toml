@@ -1,0 +1,8 @@
+[general]
+import = [
+  "~/.config/alacritty/themes/themes/gruvbox_material.toml"
+]
+
+[window]
+dimensions = { columns = 80, lines = 25 }
+opacity = 0.9
