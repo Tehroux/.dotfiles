@@ -1,5 +1,5 @@
 #! /bin/sh
 
-ln -s  ~/.dotfiles/config/helix ~/.config/helix
-
-ln  -s ~/.dotfiles/config/niri ~/.config/niri
+ln -s ~/.dotfiles/config/helix ~/.config/
+ln -s ~/.dotfiles/config/niri ~/.config/
+ln -s ~/.dotfiles/config/alacritty ~/.config/
