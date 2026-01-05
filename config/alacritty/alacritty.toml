@@ -6,3 +6,6 @@ import = [
 [window]
 dimensions = { columns = 80, lines = 25 }
 opacity = 0.9
+
+[font]
+normal = {family = "FiraCode Nerd Font", style="Regular"}
